@@ -21,6 +21,6 @@
                     <span>At least 1 special symbol</span>
                 </li>
 
-![image](https://github.com/mt057/Password-Validation/assets/82698555/5bb565f0-7f3f-4108-b3cf-c5e1ffc947c4)
+![Screenshot 2023-07-03 155415](https://github.com/mt057/Password-Validation/assets/82698555/2b36382d-bf21-4b63-a4ea-7e5668a5966d)
 
             
