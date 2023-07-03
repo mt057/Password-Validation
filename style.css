@@ -1,5 +1,5 @@
 /* Import Google font - Poppins */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -78,20 +78,32 @@ body {
   color: #000000;
 }
 .requirement-list li.valid span {
-  color: #4b495a;
+  color: #00ff00;
+}
+
+.requirement-list li.invalid i {
+  font-size: 1.2rem;
+  color: #ff0000;
+}
+
+.requirement-list li.invalid span {
+  color: #ff0000;
 }
 
 @media screen and (max-width: 500px) {
-  body, .wrapper {
+  body,
+  .wrapper {
     padding: 15px;
   }
   .wrapper .password-field {
     height: 55px;
   }
-  .password-field input, .content p  {
+  .password-field input,
+  .content p {
     font-size: 1.15rem;
   }
-  .password-field i, .requirement-list li {
+  .password-field i,
+  .requirement-list li {
     font-size: 1.1rem;
   }
   .requirement-list li span {
